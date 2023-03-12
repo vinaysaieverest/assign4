@@ -1,6 +1,9 @@
-from animal import Animal
+class Dog:
+    def eat(self):
+        print("I can Eat")
 
+    def sleep(self):
+        print("I can Sleep")
 
-class Dog(Animal):
     def bark(self):
         print("I can Bark")

@@ -1,18 +1,18 @@
-class Animal:
-    def eat(self):
-        print("I can Eat")
+# class Animal:
+#     def eat(self):
+#         print("I can Eat")
 
-    def sleep(self):
-        print("I can Sleep")
+#     def sleep(self):
+#         print("I can Sleep")
 
-    # def sound(self):
-    #     print("I can Sound")
+#     def sound(self):
+#         print("I can Sound")
 
-    # def run(self):
-    #     print("I can Run")
+#     def run(self):
+#         print("I can Run")
 
-    # def fly(self):
-    #     print("I can Fly")
+#     def fly(self):
+#         print("I can Fly")
 
-    # def swim(self):
-    #     print("I can Swim")
+#     def swim(self):
+#         print("I can Swim")
